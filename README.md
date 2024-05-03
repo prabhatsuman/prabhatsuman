@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatsuman&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatsuman" /> </p>
 
+- 🌱 I’m currently learning **Django**
+
+- 👯 I’m looking to collaborate on **Django, Django REST Framework.**
+
+- 💬 Ask me about **Competitive Programming, Django**
+
+- 📫 How to reach me **mr.prabhatsuman@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prabhat07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhat07" height="30" width="40" /></a>
